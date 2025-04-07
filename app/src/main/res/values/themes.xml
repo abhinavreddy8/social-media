@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme without ActionBar -->
+    <style name="Base.Theme.Socialmedia.NoActionBar" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Base application theme with ActionBar -->
+    <style name="Base.Theme.Socialmedia.ActionBar" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+
+    </style>
+
+    <!-- Main theme for the application without ActionBar -->
+    <style name="Theme.Socialmedia" parent="Base.Theme.Socialmedia.NoActionBar" />
+
+    <!-- Theme for activities that require ActionBar -->
+    <style name="Theme.Socialmedia.ActionBar" parent="Base.Theme.Socialmedia.ActionBar" />
+  <!-- Base application theme. -->
+    <style name="Base.Theme.Socialmedia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+</resources>
