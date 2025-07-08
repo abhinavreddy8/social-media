@@ -12,8 +12,7 @@ A feature-rich social media application built using **Java** in **Android Studio
 - ❤️ **Like & Comment** – Interact with posts through likes and comments  
 - 🧑‍💼 **Profile Management** – Edit profile details with instant updates  
 - 🔍 **User Search** – Quickly find other users in the app  
-- 🔔 **Notifications Page** – Stay updated with recent activities  
-- 🎨 **Smooth UI Animations** – Enhanced visual flow and interactions  
+- 🔔 **Notifications Page** – Stay updated with recent activities    
 - 🔐 **Secure Login** – Firebase Authentication for secure access  
 - ☁️ **Real-time Updates** – Firebase Realtime Database ensures instant synchronization across devices  
 
@@ -28,7 +27,5 @@ A feature-rich social media application built using **Java** in **Android Studio
 - **Storage**: Firebase Storage (for post images & profile photos)   
 - **UI Design**: Material Design Principles  
 
----
 
-## 📦 Project Structure
 
